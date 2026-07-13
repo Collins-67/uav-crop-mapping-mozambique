@@ -1,7 +1,7 @@
 # UAV-based Crop Mapping and FCover Estimation
 ### Smallholder-Dominated Landscapes of Mozambique
 
-**Author:** Collins Edem Hlordzie | s2788101  
+**Author:** Collins Edem Hlordzie   
 **Institution:** ITC, Faculty of GEO, University of Twente  
 **Supervisors:** Dr. F. J. Ellsäßer | Dr. F. B. Osei  
 **Year:** 2026  
